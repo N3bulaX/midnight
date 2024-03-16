@@ -12,6 +12,7 @@ A darkened discord theme with rounded chat and sidebars.
 > make sure to enable dark mode in discord settings for the theme to apply properly! (if you want light mode customize the theme color variables)
 
 #### first download Vencord;  Download the version for your system
+#### https://vencord.dev/download/
 
 ![image](https://github.com/N3bulaX/midnight-discord/assets/117851699/0c430656-419f-4fc7-b24b-a1b709a70f22)
 
